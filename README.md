@@ -1,16 +1,26 @@
-## Hi there 👋
+### Salut, je suis Yoann ! 👋
 
-<!--
-**Detruni/Detruni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en 1ère année de **Bachelor Informatique** à [Sup de Vinci](https://www.supdevinci.fr/), je suis passionné par la technologie et l'entrepreneuriat.
 
-Here are some ideas to get you started:
+Actuellement **Développeur Web Freelance** et membre du programme **PEPITE Bretagne**, je développe des compétences techniques solides tout en renforçant mon leadership. Je m'oriente aujourd'hui vers les métiers de l'infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Actuellement** :
+- Je recherche un **stage en Système & Réseaux** (Administration, Maintenance, Sécurité).
+- Je travaille sur des projets web (PHP/MySQL) en freelance.
+
+🌱 **J'apprends** :
+- L'administration système (Windows/Linux)
+- Les protocoles réseaux & la sécurité
+- La virtualisation
+
+🛠 **Ma Stack Technique** :
+- **Web** : HTML5, CSS3, JavaScript, PHP
+- **Data** : MySQL
+- **Outils** : Git, VS Code
+
+📫 **Me contacter** :
+- 📧 [yoann.renat@gmail.com](mailto:yoann.renat@gmail.com)
+- 💼 [Mon LinkedIn](Lien_vers_ton_Linkedin)
+
+---
+⭐️ *« L'entrepreneuriat au service de la tech. »*

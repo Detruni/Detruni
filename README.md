@@ -1,30 +1,39 @@
-### Salut, je suis Yoann ! 👋
+### Yoann Renat | DevOps & Cloud Infrastructure 🚀
 
-Étudiant en 1ère année de **Bachelor Informatique** à [Sup de Vinci](https://www.supdevinci.fr/), je suis passionné par la technologie et l'entrepreneuriat.
+Étudiant en **Bachelor Informatique** à [Sup de Vinci Rennes](https://www.supdevinci.fr/)[cite: 3], je me spécialise dans le **Développement** ,l'ingénierie **DevOps**, la **sécurisation d'infrastructures (DevSecOps)** et l'administration système.
 
-Actuellement **Développeur Web Freelance** et membre du programme **PEPITE Bretagne**, je développe des compétences techniques solides tout en renforçant mon leadership. Je m'oriente aujourd'hui vers les métiers de l'infrastructure.
-
-🔭 **Actuellement** :
-- Je recherche un **stage en Système & Réseaux** (Administration, Maintenance, Sécurité).
-- Je travaille sur des projets web (PHP/MySQL) en freelance.
-
-🌱 **J'apprends** :
-- L'administration système (Windows/Linux)
-- Les protocoles réseaux & la sécurité
-- La virtualisation
-
-🛠 **Ma Stack Technique** :
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-📫 **Me contacter** :
-- 📧 [yoann.renat@gmail.com](mailto:yoann.renat@gmail.com)
-- 💼 [Mon LinkedIn](Lien_vers_ton_Linkedin)
+Co-fondateur sur le projet **YEEN** (messagerie B2B souveraine et sécurisée), je conçois des architectures résilientes, automatise des pipelines CI/CD et administre des environnements conteneurisés en production[cite: 3]. En parallèle, j'expérimente activement sur mon **Home Lab physique** (baie serveur, Proxmox VE, segmentation réseau).
 
 ---
-⭐️ *« L'entrepreneuriat au service de la tech. »*
+
+### 🔭 En ce moment
+- 🎯 À la recherche d'une **alternance en ingénierie DevOps / DevSecOps** pouvant commencer **mi-avril 2027**[cite: 3]
+- 🛡️ Développement et sécurisation de l'infrastructure de **YEEN** (chiffrement E2EE, Zero-Knowledge, déploiements)[cite: 3]
+- 🖥️ Administration et monitoring de mon infrastructure personnelle sous **Proxmox** et **Docker**[cite: 3]
+
+---
+
+### 🛠️ Stack Technique
+
+#### Infrastructure, Cloud & DevOps
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E8.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Proxmox](https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+#### Développement & Données
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🌐 Me retrouver
+- 💼 **LinkedIn** : [linkedin.com/in/yoann-renat](https://linkedin.com/in/yoann-renat)[cite: 3]
+- 🌍 **Portfolio** : [yoannrenat.fr](https://yoannrenat.fr)[cite: 3]
+- 📧 **Contact** : [yoann.renat@gmail.com](mailto:yoann.renat@gmail.com)[cite: 3]

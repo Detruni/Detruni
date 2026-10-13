@@ -1,15 +1,15 @@
 ### Yoann Renat | DevOps & Cloud Infrastructure 🚀
 
-Étudiant en **Bachelor Informatique** à [Sup de Vinci Rennes](https://www.supdevinci.fr/)[cite: 3], je me spécialise dans le **Développement** ,l'ingénierie **DevOps**, la **sécurisation d'infrastructures (DevSecOps)** et l'administration système.
+Étudiant en **Bachelor Informatique** à [Sup de Vinci Rennes](https://www.supdevinci.fr/), je me spécialise dans le **Développement** ,l'ingénierie **DevOps**, la **sécurisation d'infrastructures (DevSecOps)** et l'administration système.
 
-Co-fondateur sur le projet **YEEN** (messagerie B2B souveraine et sécurisée), je conçois des architectures résilientes, automatise des pipelines CI/CD et administre des environnements conteneurisés en production[cite: 3]. En parallèle, j'expérimente activement sur mon **Home Lab physique** (baie serveur, Proxmox VE, segmentation réseau).
+Co-fondateur sur le projet **YEEN** (messagerie B2B souveraine et sécurisée), je conçois des architectures résilientes, automatise des pipelines CI/CD et administre des environnements conteneurisés en production. En parallèle, j'expérimente activement sur mon **Home Lab physique** (baie serveur, Proxmox VE, segmentation réseau).
 
 ---
 
 ### 🔭 En ce moment
-- 🎯 À la recherche d'une **alternance en ingénierie DevOps / DevSecOps** pouvant commencer **mi-avril 2027**[cite: 3]
-- 🛡️ Développement et sécurisation de l'infrastructure de **YEEN** (chiffrement E2EE, Zero-Knowledge, déploiements)[cite: 3]
-- 🖥️ Administration et monitoring de mon infrastructure personnelle sous **Proxmox** et **Docker**[cite: 3]
+- 🎯 À la recherche d'une **alternance en ingénierie DevOps / DevSecOps** pouvant commencer **mi-avril 2027**
+- 🛡️ Développement et sécurisation de l'infrastructure de **YEEN** (chiffrement E2EE, Zero-Knowledge, déploiements)
+- 🖥️ Administration et monitoring de mon infrastructure personnelle sous **Proxmox** et **Docker**
 
 ---
 
@@ -34,6 +34,6 @@ Co-fondateur sur le projet **YEEN** (messagerie B2B souveraine et sécurisée), 
 ---
 
 ### 🌐 Me retrouver
-- 💼 **LinkedIn** : [linkedin.com/in/yoann-renat](https://linkedin.com/in/yoann-renat)[cite: 3]
-- 🌍 **Portfolio** : [yoannrenat.fr](https://yoannrenat.fr)[cite: 3]
-- 📧 **Contact** : [yoann.renat@gmail.com](mailto:yoann.renat@gmail.com)[cite: 3]
+- 💼 **LinkedIn** : [linkedin.com/in/yoann-renat](https://linkedin.com/in/yoann-renat)
+- 🌍 **Portfolio** : [yoannrenat.fr](https://yoannrenat.fr)
+- 📧 **Contact** : [yoann.renat@gmail.com](mailto:yoann.renat@gmail.com)
